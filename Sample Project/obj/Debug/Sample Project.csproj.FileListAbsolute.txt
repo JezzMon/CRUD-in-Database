@@ -1,0 +1,10 @@
+C:\Users\Jezz\source\repos\Sample Project\Sample Project\bin\Debug\Sample Project.exe.config
+C:\Users\Jezz\source\repos\Sample Project\Sample Project\bin\Debug\Sample Project.exe
+C:\Users\Jezz\source\repos\Sample Project\Sample Project\bin\Debug\Sample Project.pdb
+C:\Users\Jezz\source\repos\Sample Project\Sample Project\obj\Debug\Sample Project.csproj.AssemblyReference.cache
+C:\Users\Jezz\source\repos\Sample Project\Sample Project\obj\Debug\Sample_Project.MainForm.resources
+C:\Users\Jezz\source\repos\Sample Project\Sample Project\obj\Debug\Sample_Project.Properties.Resources.resources
+C:\Users\Jezz\source\repos\Sample Project\Sample Project\obj\Debug\Sample Project.csproj.GenerateResource.cache
+C:\Users\Jezz\source\repos\Sample Project\Sample Project\obj\Debug\Sample Project.csproj.CoreCompileInputs.cache
+C:\Users\Jezz\source\repos\Sample Project\Sample Project\obj\Debug\Sample Project.exe
+C:\Users\Jezz\source\repos\Sample Project\Sample Project\obj\Debug\Sample Project.pdb
